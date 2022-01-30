@@ -2,7 +2,7 @@
 
 
 investing ∩ hacking - reach me @
-research: ~soon~
-writing: ~soon~ 
+- research: ~soon~
+- writing: ~soon~ 
 
 
