@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-investing ∩ hacking at Tapestry.vc
+investing ∩ hacking at Tapestry.vc  
 reach me @alex__mackenzie / alex@tapestry.vc
 
 sales/gtm work 
