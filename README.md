@@ -6,7 +6,7 @@ Based in London and always up for grabbing coffee. Feel free to reach me [@alex_
 
 --------------
 
-# Current Areas/Technologies of Interest
+### Current Areas/Technologies of Interest
 
 - SASE networks
 - eBPF
@@ -14,17 +14,17 @@ Based in London and always up for grabbing coffee. Feel free to reach me [@alex_
 - Employee provenance (proof-of-work-completed)
 - Browser streaming
 
-# Sales/GTM Work 
+### Sales/GTM Work 
 
 - Partner program [playbook](https://public.beamapp.co/alexmackenzie/note/94838fee-6aaf-4e20-9225-88184938b71e/Partner-Program-Playbook).
 - Developer Tools GTM playbook (soon)
 
-# Thoughts (often borrowed from others!)
+### Thoughts (often borrowed from others!)
 
 - Data should be seen as the penultimate endpoint. 
 - Invest in horizontal security products that increase the overall burden of attack. 
     
-# Favorite operational learnings:  
+### Favorite operational learnings:  
 - Your first 100 days as a leader will determine the outcome of the next 300. 
 - The output of an organization is equal to the vector sum of its individuals. 
 - Find your nerdy secret. 
