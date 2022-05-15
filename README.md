@@ -21,10 +21,7 @@ Based in London and always up for grabbing coffee. Feel free to reach me [@alex_
 
 ### Thoughts (often borrowed from others!)
 
-- Data should be seen as the penultimate endpoint. 
-- Invest in horizontal security products that increase the overall burden of attack. 
-    
-### Favorite operational learnings:  
-- Your first 100 days as a leader will determine the outcome of the next 300. 
-- The output of an organization is equal to the vector sum of its individuals. 
-- Find your nerdy secret. 
+- Data should be seen as the penultimate endpoint.
+- Simplicity scales. 
+- Do the job already.
+- Suck the air out of the room.    
