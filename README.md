@@ -13,3 +13,5 @@ Based in London and always up for grabbing coffee. Feel free to reach me [@alex_
 - WebGPU
 - Federated Learning
 - Nix
+- Zig
+- Protocol Buffers
