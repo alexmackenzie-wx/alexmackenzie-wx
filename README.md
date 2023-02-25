@@ -16,3 +16,5 @@ Based in London and always up for grabbing coffee. Feel free to reach me [@alex_
 - Zig
 - Protocol Buffers
 - Godot
+- Secure Enclaves
+- Canary Tokens
