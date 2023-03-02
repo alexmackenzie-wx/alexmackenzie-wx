@@ -9,6 +9,7 @@ Based in London and always up for grabbing coffee. Feel free to reach me [@alex_
 ### Current Areas/Technologies of Interest
 
 - Isolate Clouds
+- CRDTs
 - eBPF
 - WebGPU
 - Federated Learning
